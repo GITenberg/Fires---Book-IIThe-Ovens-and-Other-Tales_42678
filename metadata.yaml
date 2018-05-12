@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8220
     wikipedia: http://en.wikipedia.org/wiki/Wilfrid_Wilson_Gibson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42678#Fires---Book-IIThe-Ovens-and-Other-Tales
 gutenberg_issued: '2013-05-09'
 gutenberg_type: Text
 identifiers:
